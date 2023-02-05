@@ -5,7 +5,7 @@
 
 ## Contenuto
 8 carte robot, 8 carte piante, questo regolamento.  
-NB: il pdf con tutte le carte è in questo repository: ![PDF ARKombat](./ARKombat-cards-pdf)
+NB: il pdf con tutte le carte è in questo repository: ![PDF ARKombat](./ARKombat-cards.pdf)
 
 ## Regolamento
 Ogni giocatore sceglie un gruppo di carte.
