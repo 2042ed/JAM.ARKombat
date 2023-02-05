@@ -13,6 +13,9 @@ NB: il pdf con tutte le carte è in questo repository: ![PDF ARKombat](./ARKomba
 
 ![](img/cards-examples.jpg)
 
+
+![](img/arkombat-rules.jpg)
+
 ## Regolamento
 Ogni giocatore sceglie un gruppo di carte.
 A inizio turno si sceglie e si butta giù una carta coperta, ci si guarda negli occhi e le si scoprono insieme.
