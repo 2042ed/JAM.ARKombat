@@ -1,4 +1,8 @@
 # ARKombat - card game
+
+![](img/arkombat-teaser.jpg)
+
+
 [link al repository di questo gioco](https://github.com/2042ed/JAM.ARKombat)
 
 2 giocatori, dai 5 anni, durata 5 minuti.
@@ -6,6 +10,8 @@
 ## Contenuto
 8 carte robot, 8 carte piante, questo regolamento.  
 NB: il pdf con tutte le carte è in questo repository: ![PDF ARKombat](./ARKombat-cards.pdf)
+
+![](img/cards-examples.jpg)
 
 ## Regolamento
 Ogni giocatore sceglie un gruppo di carte.
