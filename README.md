@@ -1,4 +1,5 @@
 # ARKombat - card game
+[link al repository di questo gioco](https://github.com/2042ed/JAM.ARKombat)
 
 2 giocatori, dai 5 anni, durata 5 minuti.
 
@@ -35,7 +36,13 @@ Per godersi al meglio il gioco, conviene installare su un proprio telefono la ap
 ## Crediti
 ARKombat e’ stato creato da bruno, fabio e stefano cecere durante la global game jam 2023.
 
-Se volete una spiegazione dettagliata di come abbiamo lavorato, scaricare i pdf e scoprire il grande mondo della didattica e creativita’ ludica, andate sul sito https://2042ed.org
+Se volete una spiegazione dettagliata di come abbiamo lavorato, scaricare i pdf e scoprire il grande mondo della didattica e creativita’ ludica, andate sul sito <https://2042ed.org>
 
 ## Ringraziamenti
 mamma antonella, michele lanzo, martino chiacchiera, cristina e cinzia, magicavoxel.
+
+## Global Game Jam 2023
+La esntry di questo gioco è: <https://globalgamejam.org/2023/games/arkombat-card-game-5>
+
+## Licenza
+Questo gioco è copyright Stefano, Fabio e Bruno Cecere, 2023.
