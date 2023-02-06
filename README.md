@@ -2,57 +2,52 @@
 
 ![](img/arkombat-teaser.jpg)
 
+[Repository GitHub di questo gioco](https://github.com/2042ed/JAM.ARKombat)
 
-[link al repository di questo gioco](https://github.com/2042ed/JAM.ARKombat)
-
-2 giocatori, dai 5 anni, durata 5 minuti.
+2 giocatori, dai 5 anni, durata 5/15 minuti.
 
 ## Contenuto
-8 carte robot, 8 carte piante, questo regolamento.  
+8 carte Robot, 8 carte Piante, questo regolamento.
+
 NB: il pdf con tutte le carte è in questo repository: ![PDF ARKombat](./ARKombat-cards.pdf)
 
 ![](img/cards-examples.jpg)
-
-
 ![](img/arkombat-rules.jpg)
 
 ## Regolamento
-Ogni giocatore sceglie un gruppo di carte.
-A inizio turno si sceglie e si butta giù una carta coperta, ci si guarda negli occhi e le si scoprono insieme.
+ogni giocatore prende tutte le carte di un set.
+a inizio turno tutti mettono sul tavolo una carta coperta, ci si guarda negli occhi e si scoprono insieme.
 
-Ogni giocatore urla il proprio attacco (puo’ sceglierlo dalla carta o ancora meglio inventarne uno nuovo) e si risolve lo scontro. chi vince prende le due carte!
+Ogni giocatore esclama il proprio attacco (puo’ sceglierlo dalla carta o ancora meglio inventarne uno nuovo) e si risolve lo scontro con queste regole:
 
-I tipi di carte sono:
+- 🔺 Fuoco vince su Legno
+- 🔵 Acqua vince su Fuoco
+- 🟫 Legno vince su Acqua
+- 💀 Guerra vince su Fuoco, Acqua, Legno
+- ⭐️ pace vince su Guerra
 
-- 🔺 fuoco (vince su legno)
-- 🔵 acqua (vince su fuoco)
-- 🟫 legno (vince su acqua)
-- 💀 morte (vince su fuoco, acqua, legno)
-- ⭐️ pacificatore (vince su morte)
+Chi vince prende le due carte giocate.
+In caso di pareggio (due tipi uguali oppure pace contro un tipo base) ognuno vince la propria carta.
 
-In caso di pareggio (due tipi uguali oppure il pacificatore contro un tipo base) ognuno vince la propria carta.
-
-Finite le carte, chi ne ha di più vince il round.
-La partita si vince al meglio di 1, 3 o 5 round, a scelta dei giocatori.
+finite le carte, chi ne ha di più vince il round.
+la partita si gioca al meglio di 1, 3 o 5 round a scelta dei giocatori.
 
 ## Difficolta'
 
-- facile: le carte vinte sono scoperte e visibili
-- difficile: le carte vinte si tengono coperte.
+- Facile: le carte vinte sono scoperte
+- Difficile: le carte vinte si tengono coperte.
 
-## App
-Per godersi al meglio il gioco, conviene installare su un proprio telefono la app arkombat (disponibile presto sugli stores).
+## App AR
+per godersi al meglio la battaglia, conviene installare su telefono o tablet ios/android la app arkombat (disponibile presto!) e giocare in realta’ aumentata.
 
 ## Crediti
-ARKombat e’ stato creato da bruno, fabio e stefano cecere durante la global game jam 2023.
-
-Se volete una spiegazione dettagliata di come abbiamo lavorato, scaricare i pdf e scoprire il grande mondo della didattica e creativita’ ludica, andate sul sito <https://2042ed.org>
+ARKombat e’ stato creato da bruno, fabio e stefano cecere durante la global game jam 2023. se volete una spiegazione dettagliata di come abbiamo lavorato, scaricare i pdf, l’app e scoprire il grande mondo della didattica e creativita’ ludica, andate sul sito <https://2042ed.org> e iscrivetevi alla newsletter o discord o telegram vi aspettiamo!
 
 ## Ringraziamenti
-mamma antonella, michele lanzo, martino chiacchiera, cristina e cinzia, magicavoxel.
+mamma antonella prunecchi, michele lanzo, rugerfred, martino chiacchiera, gabriele mari, cristina e cinzia poli, cdp settignano, la banda del playfriday, magicavoxel, i ludologi ed educatori ludici, il game.sci, <https://vgwb.org>
 
 ## Global Game Jam 2023
 La esntry di questo gioco è: <https://globalgamejam.org/2023/games/arkombat-card-game-5>
 
-## Licenza
+## ©️ License
 Questo gioco è copyright Stefano, Fabio e Bruno Cecere, 2023.
