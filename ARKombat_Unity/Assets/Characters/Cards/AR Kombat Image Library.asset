@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: AR Kombat Image Library
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5536360727927187646
+  m_GuidHigh: 16529451394403624589
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4964119863663769896
+      m_GuidHigh: 4936866485109271971
+    m_SerializedTextureGuid:
+      m_GuidLow: 15330366017786124752
+      m_GuidHigh: 807809158706537625
+    m_Size: {x: 0.062, y: 0.08898226}
+    m_SpecifySize: 1
+    m_Name: robot_legno
+    m_Texture: {fileID: 2800000, guid: 5edc99d066abd4c099a4025f26ea350b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5163963259932318181
+      m_GuidHigh: 14046832988529062797
+    m_SerializedTextureGuid:
+      m_GuidLow: 298382018126509929
+      m_GuidHigh: 18360327263584875162
+    m_Size: {x: 0.062, y: 0.08898226}
+    m_SpecifySize: 1
+    m_Name: pianta_fuoco
+    m_Texture: {fileID: 2800000, guid: 55cb776910dd04249a72e5795efcccfe, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5416144032080100806
+      m_GuidHigh: 9415020581965487023
+    m_SerializedTextureGuid:
+      m_GuidLow: 9577269950596013825
+      m_GuidHigh: 4519105045402334698
+    m_Size: {x: 0.062, y: 0.08898226}
+    m_SpecifySize: 1
+    m_Name: pianta_legno
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4781305672970941506
+      m_GuidHigh: 11425154982151986367
+    m_SerializedTextureGuid:
+      m_GuidLow: 11850638851369266992
+      m_GuidHigh: 8924146356374893179
+    m_Size: {x: 0.062, y: 0.08898226}
+    m_SpecifySize: 1
+    m_Name: pianta_acqua
+    m_Texture: {fileID: 2800000, guid: 794eef30ed3fa4757b725237d4efd87b, type: 3}
