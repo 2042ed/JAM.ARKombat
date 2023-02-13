@@ -24,7 +24,7 @@ Ogni giocatore esclama il proprio attacco (puo’ sceglierlo dalla carta o ancor
 - 🔵 Acqua vince su Fuoco
 - 🟫 Legno vince su Acqua
 - 💀 Guerra vince su Fuoco, Acqua, Legno
-- ⭐️ pace vince su Guerra
+- ⭐️ Pace vince su Guerra
 
 Chi vince prende le due carte giocate.
 In caso di pareggio (due tipi uguali oppure pace contro un tipo base) ognuno vince la propria carta.
@@ -44,7 +44,7 @@ Per godersi al meglio la battaglia, conviene installare su telefono o tablet iOS
 ARKombat e’ stato creato da Bruno, Fabio e Stefano Cecere durante la Global Game Jam 2023. Se volete una spiegazione dettagliata di come abbiamo lavorato, scaricare i pdf, l’app e scoprire il grande mondo della didattica e creatività ludica, andate sul sito <https://2042ed.org> e iscrivetevi alla newsletter o Discord o Telegram vi aspettiamo!
 
 ## Ringraziamenti
-mamma antonella prunecchi, michele lanzo, rugerfred, martino chiacchiera, gabriele mari, cristina e cinzia poli, cdp settignano, la banda del playfriday, magicavoxel, i ludologi ed educatori ludici, il game.sci, <https://vgwb.org>
+Mamma Antonella Prunecchi, Michele Lanzo, Rugerfred, Martino Chiacchiera, Gabriele Mari, Cristina e Cinzia, Emilia, la banda del PlayFriday, MagicaVoxel, i Ludologi ed Educatori Ludici, Game.SCI, <https://vgwb.org>
 
 ## Global Game Jam 2023
 La entry di questo gioco è: <https://globalgamejam.org/2023/games/arkombat-card-game-5>
